@@ -14,4 +14,9 @@ add merge
 
 add merge agin
 
+<<<<<<< HEAD
+/usr/bin/env
 coding: utf-8
+=======
+/usr/bin/env
+>>>>>>> 303a42339c80ed06594c9a90dd2462126aa6a2cc
